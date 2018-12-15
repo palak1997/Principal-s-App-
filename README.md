@@ -11,5 +11,5 @@ Nowadays, it’s have become a necessary task for the schools and many other org
 1. Attendance Analysis of the students 
 2. Employee Attendance Analysis 
 3. Fee Details
-4. Admission Enquiries 
+4. Admission Enquiry
 I have created a website portal with the help of Cake PHP Framework in which different schools can enter their daily report information of their school separately. Now the data entered has been analyzed on various perspectives. Restful API functions have been designed using the PHP Oauth API class for the various different tasks listed below and the data has been fully analyzed which has been sent to Android APP , in which data has been presented to the principal.
